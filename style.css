@@ -8,6 +8,26 @@ body {
     background-color: rgb(21, 21, 85);
 }
 
+.container {
+    padding: 10px;
+}
+
+#header {
+    background-color: rgb(39, 161, 209);
+    border-radius: 2px;
+}
+
+#dr {
+    margin: 0px;
+    padding: 0px;
+    width: 0px;
+    height: 0px;
+    border-top: 178px solid transparent;
+    border-right: 550px solid aqua;
+    position: absolute;
+    right: 0%;
+}
+
 #title {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 65px;
